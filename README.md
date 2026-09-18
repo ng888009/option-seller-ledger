@@ -18,6 +18,12 @@
 - **CSV 导出**：导出当前账本视图。
 - **安全防误用**：账户尾号匹配失败即停止同步；没有真实、已验证数据时显示空状态，不使用演示数据。
 
+- ## 功能截图（数据是测试数据）
+- 
+<img width="1121" height="698" alt="image" src="https://github.com/user-attachments/assets/4aa8d111-12f4-4e9c-a038-dc8b886308db" />
+
+
+
 ## 数据与隐私
 
 - 数据只保存在用户本机 SQLite 数据库。
@@ -76,7 +82,9 @@ tests/               前端构建相关测试
 ## 免责声明
 
 本项目仅用于个人交易记录与数据复盘，不构成投资、税务或法律建议。使用者应自行核对成交、费用、账户权限与风险，并对交易决策负责。
+
 欢迎关注我是NG哥公众号，一起畅游美股。
+
 <img width="510" height="326" alt="image" src="https://github.com/user-attachments/assets/490f196c-dea1-4464-aa8d-8355afc8adea" />
 
 
